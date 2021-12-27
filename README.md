@@ -1,2 +1,2 @@
 # JavaScript
-## M-odulo 9: Projeto SlideShow com tamanho fixo.
+## Módulo 9: Projeto SlideShow com tamanho fixo.
